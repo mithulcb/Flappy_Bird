@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: cb6f998e70a59d84d9d888976ce77a52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3551287784963028691
+    second: Bird_1
+  - first:
+      213: 1895172606582820919
+    second: Bird_2
+  - first:
+      213: 5980626864169998078
+    second: Bird_3
+  - first:
+      213: -1668088635038598787
+    second: Bird_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bird_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 259
+        width: 287
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197.5, y: 75}
+        - {x: -236.5, y: 70}
+        - {x: -265.5, y: 46}
+        - {x: -316.5, y: 40}
+        - {x: -342.5, y: 41}
+        - {x: -367.5, y: 48}
+        - {x: -402.5, y: 69}
+        - {x: -412.5, y: 100}
+        - {x: -411.5, y: 112}
+        - {x: -424.5, y: 126}
+        - {x: -426.5, y: 145}
+        - {x: -397.5, y: 161}
+        - {x: -356.5, y: 155}
+        - {x: -307.5, y: 160}
+        - {x: -266.5, y: 150}
+        - {x: -238.5, y: 130}
+        - {x: -201.5, y: 119}
+        - {x: -173.5, y: 96}
+      - - {x: 310.5, y: 43}
+        - {x: 268.5, y: 32}
+        - {x: 201.5, y: 44}
+        - {x: 167.5, y: 71}
+        - {x: 148.5, y: 84}
+        - {x: 137.5, y: 100}
+        - {x: 143.5, y: 112}
+        - {x: 152.5, y: 122}
+        - {x: 176.5, y: 127}
+        - {x: 205.5, y: 146}
+        - {x: 251.5, y: 156}
+        - {x: 300.5, y: 147}
+        - {x: 331.5, y: 127}
+        - {x: 373.5, y: 139}
+        - {x: 409.5, y: 134}
+        - {x: 351.5, y: 99}
+        - {x: 411.5, y: 73}
+        - {x: 409.5, y: 58}
+        - {x: 335.5, y: 64}
+      - - {x: -239.5, y: -154}
+        - {x: -268.5, y: -177}
+        - {x: -314.5, y: -186}
+        - {x: -351.5, y: -182}
+        - {x: -370.5, y: -194}
+        - {x: -404.5, y: -195}
+        - {x: -420.5, y: -180}
+        - {x: -425.5, y: -161}
+        - {x: -412.5, y: -146}
+        - {x: -418.5, y: -124}
+        - {x: -413.5, y: -107}
+        - {x: -401.5, y: -92}
+        - {x: -371.5, y: -71}
+        - {x: -313.5, y: -62}
+        - {x: -266.5, y: -76}
+        - {x: -242.5, y: -93}
+        - {x: -209.5, y: -107}
+        - {x: -176.5, y: -128}
+        - {x: -193.5, y: -146}
+        - {x: -224.5, y: -156}
+      - - {x: 378.5, y: -158}
+        - {x: 340.5, y: -154}
+        - {x: 319.5, y: -170}
+        - {x: 297.5, y: -179}
+        - {x: 268.5, y: -181}
+        - {x: 234.5, y: -182}
+        - {x: 200.5, y: -172}
+        - {x: 168.5, y: -141}
+        - {x: 152.5, y: -138}
+        - {x: 143.5, y: -120}
+        - {x: 147.5, y: -104}
+        - {x: 162.5, y: -93}
+        - {x: 182.5, y: -91}
+        - {x: 213.5, y: -68}
+        - {x: 253.5, y: -62}
+        - {x: 278.5, y: -63}
+        - {x: 301.5, y: -67}
+        - {x: 337.5, y: -88}
+        - {x: 373.5, y: -82}
+        - {x: 412.5, y: -78}
+        - {x: 389.5, y: -104}
+        - {x: 359.5, y: -121}
+        - {x: 397.5, y: -133}
+        - {x: 414.5, y: -156}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29481a339a47bec0800000000000000
+      internalID: -3551287784963028691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 259
+        width: 336
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7309b63d1710d4a10800000000000000
+      internalID: 1895172606582820919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 251
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d20d32747ff250800000000000000
+      internalID: 5980626864169998078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_4
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 48
+        width: 288
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7978ae6932c9d8e0800000000000000
+      internalID: -1668088635038598787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
